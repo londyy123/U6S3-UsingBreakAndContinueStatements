@@ -7,8 +7,8 @@ public class CountChar {
         int max = str.length();
         int count = 0;
 
-//            if (str.charAt(i) != 'w')
-//                continue;
+           //if (str.charAt(i) != 'w')
+               //continue;
 
         count++;
 
